@@ -1,0 +1,30 @@
+h1,h2,h3,h4,h6{
+  /* text-align: center; */
+  font-size: 8rem;
+  margin: 8% 0 0 0;
+  color: #4ECCA3;
+  font-family: 'Lobster',cursive;
+}
+body{
+  background-color: #393E46;
+}
+
+img{
+  width: 80%;
+}
+.container{
+  text-align: center;
+  margin: 0 0 0 0 ;
+
+}
+
+.container-2{
+  text-align: center;
+  display: inline-block;
+  margin: 0 2% 0 2%;
+}
+.head-2{
+  font-size: 2rem;
+  font-family: 'Indie Flower',cursive;
+  color: #4ECCA3;
+}
